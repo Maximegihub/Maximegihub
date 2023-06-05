@@ -1,8 +1,5 @@
 ### Hey Salut 👋
 
-
-**Maximegihub/Maximegihub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👋 Bonjour je m'appelle Maxime 
 - 🌱 Je suis actuellement en formation d'administrateur d'infrastructure sécurisée
 - 🔭 Je travaille actuellement sur de l'infrastrucutre as code
