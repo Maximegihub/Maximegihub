@@ -1,20 +1,15 @@
-### Hi there 👋
+### Hey Salut 👋
 
-<!--
+
 **Maximegihub/Maximegihub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👋 Bonjour je m'appelle Maxime 
+- 🌱 Je suis actuellement en formation d'administrateur d'infrastructure sécurisée
+- 🔭 Je travaille actuellement sur de l'infrastrucutre as code
+- 🌱 En ce moment j'apprend à utiliser packer afin d'industrialiser le déploiement de machine virtuelle
+- 👀 Je suis intéressé par Terraform, Ansible, Vagrant, Packer, Jenkins, Docker etc 
+- 📫 Pour me contacter : Linkedin : [https://www.linkedin.com/in/larrouquere-maxime/](url)
+- 😄 PS: Je ne suis pas un développeur  :) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👋 Bonjour je m'appelle Maxime
-- 👀 Je suis intéressé par Terraform, Ansible, Docker, Linux, Windows
-- 🌱 J'apprend actuellement le métier d'Administrateur d'infrastructure sécurisée
-- 📫 Mon adresse mail
--->
+
+
