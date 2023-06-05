@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 - 👀 Je suis intéressé par Terraform, Ansible, Docker, Linux, Windows
 - 🌱 J'apprend actuellement le métier d'Administrateur d'infrastructure sécurisée
 - 📫 Mon adresse mail
-
-<!---
-Maximegihub/Maximegihub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 -->
