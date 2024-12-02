@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Bonjour je m'appelle Maxime <br>🌱 Je suis actuellement en formation d'administrateur d'infrastructure sécurisée<br>🔭 Je travaille en ce moment sur du déploiement d'outil de CI/CD<br>🌱 En ce moment je découvre le CI/CD<br>👀 Je vien de mettre les mains dans Kubernetes <br>📫 Pour me contacter : Linkedin : https://www.linkedin.com/in/larrouquere-maxime<br>😄 PS: Je ne suis pas développeur 😮
+👋 Bonjour je m'appelle Maxime <br> En ce moment je travail sur l'obtention d'une certification <br>👀 Je vien de mettre les mains dans Puppet <br>📫 Pour me contacter : Linkedin : https://www.linkedin.com/in/konieczny-maxime<br>
 
 
 # 💻 Tech Stack:
