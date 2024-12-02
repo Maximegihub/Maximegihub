@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Bonjour je m'appelle Maxime <br> En ce moment je travail sur l'obtention d'une certification <br>👀 Je vien de mettre les mains dans Puppet <br>📫 Pour me contacter : Linkedin : https://www.linkedin.com/in/konieczny-maxime<br>
+👋 Bonjour je m'appelle Maxime <br> En ce moment je travail sur une certification orienté Défensif 👀 J'édutie en paralèle le fonctionnement et les différentes méthodes utilisés par les ransomwares <br>📫 Pour me contacter : Linkedin : https://www.linkedin.com/in/konieczny-maxime<br>
 
 
 # 💻 Tech Stack:
