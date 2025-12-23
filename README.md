@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Bonjour je m'appelle Maxime, en ce moment je travail sur une certification orienté Défensif <br> 
-👀 J'étudie en paralèle le fonctionnement et les différentes méthodes utilisés par les ransomwares <br>
-📫 Pour me contacter : Linkedin : https://www.linkedin.com/in/konieczny-maxime<br>
+👋  <br> 
+👀  <br>
+📫  <br>
 
 
 # 💻 Tech Stack:
